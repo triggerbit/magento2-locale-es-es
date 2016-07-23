@@ -13,10 +13,13 @@
             "homepage": "https://elnostreraco.com/blog/"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "alpha",
     "autoload": {
         "files": [
             "registration.php"
         ]
+    },
+	"require": {
+        "magento/framework": "*"
     }
 }

@@ -12,3 +12,11 @@ php bin/magento setup:static-content:deploy es_ES
 rm -rf var/di
 php bin/magento setup:di:compile
 ```
+
+# Instalación con composer
+```bash
+composer config repositories.magento2-locale-es-es vcs https://github.com/triggerbit/magento2-locale-es-es
+composer require triggerbit/magento2-locale-es-es
+php bin/magento i18n:pack --mode=replace -d vendor/triggerbit/magento2-locale-es-es/es_ES.csv . es_ES
+php bin/magento setup:static-content:deploy es_ES
+```

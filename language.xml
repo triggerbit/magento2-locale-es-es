@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:App/Language/package.xsd">
+    <code>es_ES</code>
+    <vendor>triggerbit</vendor>
+    <package>es_es</package>
+    <sort_order>9</sort_order>
+</language>

@@ -1,0 +1,22 @@
+{
+    "name": "triggerbit/magento2-language-es-es",
+    "description": "Magento 2 Spanish (Spain) language package - Paquete de idioma Español (España) para Magento 2",
+    "type": "magento2-language",
+    "version": "0.0.1",
+    "license": [
+        "MIT"
+    ],
+    "authors": [
+		{
+            "name": "Jordi Rosell",
+            "email": "jroselln@gmail.com",
+            "homepage": "https://elnostreraco.com/blog/"
+        }
+    ],
+    "minimum-stability": "alpha",
+    "autoload": {
+        "files": [
+            "registration.php"
+        ]
+    }
+}

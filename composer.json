@@ -2,9 +2,9 @@
     "name": "triggerbit/magento2-locale-es-es",
     "description": "Magento 2 Spanish (Spain) language package - Paquete de idioma Español (España) para Magento 2",
     "type": "magento2-language",
-    "version": "0.0.1",
+    "version": "master",
     "license": [
-        "MIT"
+        "OSL"
     ],
     "authors": [
 		{

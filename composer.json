@@ -13,7 +13,7 @@
             "homepage": "https://elnostreraco.com/blog/"
         }
     ],
-    "minimum-stability": "alpha",
+    "minimum-stability": "dev",
     "autoload": {
         "files": [
             "registration.php"

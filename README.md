@@ -3,7 +3,8 @@
 Traducción a idioma español (España) para Magento2
 
 Estos ficheros se copiaron de https://crowdin.com/project/magento-2/es-ES
- 
+El paquete de idioma está basado en https://github.com/eusonlito/magento2-language-es_es
+
 # Instalación manual
  - Descarga el zip y copia los contenidos de /src/ en la raiz de magento
  - En el directorio raiz de Magento, ejectua los siguientes comandos:
